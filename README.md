@@ -1,0 +1,1 @@
+# SonarQube-Automacao-para-Alterar-Visibilidade-de-Projetos
